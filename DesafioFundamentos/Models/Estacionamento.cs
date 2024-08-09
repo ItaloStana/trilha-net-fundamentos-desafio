@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace DesafioDIO1.Models
+namespace DesafioFundamentos.Models
 {
     public class Estacionamento
     {
