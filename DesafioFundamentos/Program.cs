@@ -1,5 +1,5 @@
 using System;
-using DesafioDIO1.Models;
+using DesafioFundamentos.Models;
 
 class Program
 {
